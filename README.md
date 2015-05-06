@@ -4,5 +4,4 @@ Speed Read on the Apple Watch - pretty much based on https://github.com/vivekset
 
 
 
-
-(https://raw.githubusercontent.com/hjanuschka/HJWatchSpeedRead/master/screenshot.png " ")
+![Image of Yaktocat] (https://raw.githubusercontent.com/hjanuschka/HJWatchSpeedRead/master/screenshot.png " ")
